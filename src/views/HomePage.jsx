@@ -5,7 +5,7 @@ const HomePage = () => {
         <div className="">
           <p className="text-light">Web Personajes de Harry Potter.</p>
         </div>
-        <div className="col-6">
+        <div className="col-sm-6">
           <div className="bg-light" style={{ textAlign: "center" }}>
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Harry_Potter_wordmark.svg"
@@ -24,7 +24,7 @@ const HomePage = () => {
             </p>
           </div>
         </div>
-        <div className="col-6">
+        <div className="col-sm-6">
           <img
             src=""
             alt=""

@@ -9,7 +9,7 @@ const Navegacion = () => {
               <img
                 src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Harry_Potter_wordmark.svg"
                 alt=""
-                style={{ width: "12%" }}
+                style={{ width: "20%" }}
               ></img>
             </Link>
           </div>
