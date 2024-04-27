@@ -39,8 +39,11 @@ const Formulario = () => {
     setConfirmacionEmail('')
   };
   return (
-    <div className="col p-3 bg-light rounded">
+    <div className="col-sm-12 p-3 bg-light rounded">
       <form onSubmit={validarInput} className="formulario">
+        <div style={{textAlign:'center'}}>
+          <p>Formulario de contacto</p>
+        </div>
         <div className="form-group">
           <label>Nombre </label>
           <input
