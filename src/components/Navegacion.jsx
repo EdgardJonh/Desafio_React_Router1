@@ -35,7 +35,7 @@ const Navegacion = () => {
                 to="/"
                 className="nav-link active"
                 aria-current="page"
-                href="#"
+                
               >
                 Home
               </Link>
